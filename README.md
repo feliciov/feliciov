@@ -19,8 +19,8 @@ from pyspark.sql import SparkSession # if I have access to some resources (and I
 ```
 If the need for statistical modeling arises, I'll likely resort to `sklearn`, `statsmodels` or `pysal`. I've done some NLP work with `spacy` and built deep learning with `tf.keras`, but not for long.
 
-I'm also doing *noninteractive* coding. I'll code `kedro` pipelines, `fastapi` APIs or even `panel`or `streamlit` dashboards if the situation calls for it.<br>
+I'm also doing *noninteractive* coding. I'll code `kedro` pipelines, `fastapi` APIs or even `panel` and `streamlit` dashboards if the situation calls for it.<br>
 I've maped and CRUD databases with `sqlalchemy` and `tortoise`, but lately I'm more of a data consumer using pandas's `read_sql_query` or (indirectly) kedro's `SQLQueryDataSet`.<br>
-I'll test it up with `pytest` and, I'm currently learning, the `hypotesis` library.
+I'll test it up with `pytest` and, I'm currently learning, the `hypothesis` library.
 
 If you think I can help you, feel free to mail me. The address is at my [github page cover](https://feliciov.github.io). (currently under construction)
