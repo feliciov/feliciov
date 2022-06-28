@@ -1,7 +1,7 @@
 ### Hello!
 I'm Felício and I do **data related work**. :chart_with_upwards_trend::microscope:
 
-Most of my work is done in Python using VS Code (devcontainer, you beaultiful b) on a Debian or Arch Linux distro :crossed_swords:.
+Most of my work is done in Python using VS Code (I like my devcontainers) on a Debian or Arch Linux distro :crossed_swords:.
 
 Often, I'll explore using jupyter and on the topmost cell of my notebooks you will likely see the following
 ```python
