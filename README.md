@@ -21,6 +21,8 @@ If the need for statistical modeling arises, I'll likely resort to `sklearn`, `s
 
 I'm also doing *noninteractive* coding. I'll code `kedro` pipelines, `fastapi` APIs or even `panel` and `streamlit` dashboards if the situation calls for it.<br>
 I've maped and CRUD databases with `sqlalchemy` and `tortoise`, but lately I'm more of a data consumer using pandas's `read_sql_query` or (indirectly) kedro's `SQLQueryDataSet`.<br>
-I'll test it up with `pytest` and, I'm currently learning, the `hypothesis` library.
+I'll test it up with `pytest`.
 
-If you think I can help you, feel free to mail me. The address is at my [github page cover](https://feliciov.github.io). (currently under construction)
+I've done webscrapping projects with both `selenium` and `scrapy` + splash.
+
+If you think I can help you, feel free to mail me. The address is at my [github page cover](https://feliciov.github.io).
